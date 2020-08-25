@@ -1,0 +1,30 @@
+@media only screen and (max-width:1199px) {
+    .search_perfect .nav-tabs .nav-link{padding:14px 20px;background-position:6px}
+    .search_body ul.search_form li{width:287px}
+}
+@media only screen and (max-width:991px) {
+    .facility_hajum{margin-top:30px}
+    .tour_package{min-height:300px;margin-bottom:30px}
+    section.all_package{padding:30px 0 50px}
+    a.agency-console{display:none}
+    #main_header div#navbarNav{position:absolute;z-index:9999;top:46px;right:0;text-align:left;background:#fff;width:100%;z-index:99999}
+    #main_header ul.navbar-nav{align-items:normal}
+}
+@media only screen and (max-width:767px) {
+    .search_body ul.search_form li{width:100%;margin-bottom:5px}
+    .search_body form .form-group label{margin-bottom:5px}
+    .content_inner{padding:40px 0;min-height:0}
+    .tab-content > .tab-pane{display:block!important;opacity:1}
+}
+@media only screen and (max-width:575px) {
+    h2.main_hedding{font-size:30px}
+    .search_body form h2{font-size:22px}
+    .select{width:94px}
+    .top_strip p:before{display:none}
+    .top_strip p{padding:0;margin:0;margin-top:5px;width:100%;text-align:center}
+    .form_box{padding:20px}
+    .form_box .form-control{height:40px}
+    .form_box .select{height:40px}
+    .form_box .select .select-styled{padding:0 2rem 0 .75rem;height:38px;line-height:38px}
+    .form_box .select .select-styled:after{font-size:24px;right:7px}
+}
